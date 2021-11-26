@@ -22,3 +22,4 @@ dependencies>
      <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
    </repository>
 </distributionManagement>
+com.example:test
