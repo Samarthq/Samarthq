@@ -23,3 +23,11 @@ dependencies>
    </repository>
 </distributionManagement>
 com.example:test
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // noinspection GradleDynamicVersion
+    implementation 'com.startapp:inapp-sdk:4.8.+'
+}
