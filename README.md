@@ -15,3 +15,10 @@ dependencies>
     <version>1.0.0-SNAPSHOT</version>
   </dependency>
 </dependencies>
+<distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub OWNER Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+   </repository>
+</distributionManagement>
