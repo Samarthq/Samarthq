@@ -31,3 +31,5 @@ dependencies {
     // noinspection GradleDynamicVersion
     implementation 'com.startapp:inapp-sdk:4.8.+'
 }
+docs/content/packages/quickstart.md
+
